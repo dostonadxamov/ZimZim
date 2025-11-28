@@ -27,7 +27,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px]  font-semibold text-gray-800 leading-7 mb-2.5">Restoraningizni masofadan <br /> boshqaring.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px]  font-semibold  leading-7 mb-2.5">Restoraningizni masofadan <br /> boshqaring.</h2>
               <p className="text-gray-500 leading-7  lg:text-[17px] md:text-[14px] sm:text-[12px] opacity-80">Qaerda bo'lsangiz ham, Zim-Zim sizga Real <br /> vaqt rejimida biznesingiz qanday <br /> ketayotganini va hozirda qancha pul <br /> ishlayotganingizni ko'rsatadi.</p>
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold text-gray-800 leading-7 mb-2.5">Yangi menyu qo'shish oson.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold  leading-7 mb-2.5">Yangi menyu qo'shish oson.</h2>
               <p className="text-gray-500 leading-7 text-[17px] opacity-80">Intuitiv Zim-Zim interfeysida yangi taomlar, <br /> ingredientlar va qiymat xaritalarini qo'shish <br /> juda oddiy operatsiyaga aylanadi. Sinab <br /> ko'ring, sinab ko'ring, mehmonlaringiz buni <br /> qadrlashadi!</p>
             </div>
           </div>
@@ -43,7 +43,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold text-gray-800 leading-7 mb-2.5">Hisobotlarni Real vaqtda <br /> oling.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold  leading-7 mb-2.5">Hisobotlarni Real vaqtda <br /> oling.</h2>
               <p className="text-gray-500 leading-7  lg:text-[17px] md:text-[14px] sm:text-[12px] opacity-80">Hisob-kitoblarni tekshirish, naqd pul, joriy <br /> daromad yoki oziq-ovqat narxlari, ombor <br /> qoldiqlari va boshqalar bo'lsin, siz doimo <br /> eng dolzarb ma'lumotlarga ega bo'lasiz.</p>
             </div>
           </div>
@@ -51,7 +51,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold text-gray-800 leading-7 mb-2.5">Har bir bo'lim <br /> samaradorligini oshirish.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold  leading-7 mb-2.5">Har bir bo'lim <br /> samaradorligini oshirish.</h2>
               <p className="text-gray-500 leading-7  lg:text-[17px] md:text-[14px] sm:text-[12px] opacity-80">Har bir xodimning kirish huquqi sozlamalari <br /> mavjud. Har bir xodimning har bir harakati <br /> diqqat bilan nazorat qilinadi va qayd etiladi.</p>
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold text-gray-800 leading-7 mb-2.5">Har bir tafsilotga e'tibor <br /> bering.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold  leading-7 mb-2.5">Har bir tafsilotga e'tibor <br /> bering.</h2>
               <p className="text-gray-500 leading-7  lg:text-[17px] md:text-[14px] sm:text-[12px] opacity-80">Siz barcha xodimlarning harakatlari, pul <br /> harakati va boshqa mablag'larni hisobga <br /> olishingiz mumkin bo'lgan boshqaruv <br /> paneliga kirishingiz mumkin. Keraksiz <br /> ma'lumotlar yo'q, faqat barcha bo'limlarning <br /> to'liq ko'rsatkichlari.</p>
             </div>
           </div>
@@ -67,7 +67,7 @@ export default function Home() {
           <div className="card card-dash bg-base-100 w-full max-w-md">
             <div className="card-body">
               <img className="mb-4" src={trick} alt="" width={50} height={50} />
-              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold text-gray-800 leading-7 mb-2.5">Smenani ochmasdan va <br /> yopmasdan mahsulot <br /> harakatini ko'rish.</h2>
+              <h2 className="card-title lg:text-[24px] md:text-[16px] font-semibold  leading-7 mb-2.5">Smenani ochmasdan va <br /> yopmasdan mahsulot <br /> harakatini ko'rish.</h2>
               <p className="text-gray-500 leading-7  lg:text-[17px] md:text-[14px] sm:text-[12px] opacity-80">Mahsulotlar ro'yxati omborda va hozirda <br /> restoran va barlarda mavjud. Bu sizga <br /> balansingizni istalgan vaqtda bir necha <br /> marta bosish orqali boshqarish imkonini <br /> beradi.</p>
             </div>
           </div>
