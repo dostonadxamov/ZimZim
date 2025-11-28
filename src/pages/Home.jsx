@@ -6,7 +6,7 @@ export default function Home() {
       {/* hero  */}
       <div className="flex flex-col items-center pt-[50px]">
         <h1 className="text-center  font-sans  lg:text-[80px] md:text-[60px] sm:text-[40px] font-bold font-stretch-ultra-condensed">Zimzim bilan restoraningizni <br /> avtomatlashtirish</h1>
-        <p className="font-sans text-center text-gray lg:text-[25px] md:text-[20px] mt-[25px] opacity-40">Bizning dasturiy echimlarimiz sizning biznesingiz har qachongidan ham samarali <br /> ishlashiga yordam beradi</p>
+        <p className="font-sans text-center text-gray lg:text-[25px] md:text-[20px] mt-[25px] opacity-40">Bizning dasturiy yechimlarimiz sizning biznesingiz har qachongidan ham samarali <br /> ishlashiga yordam beradi</p>
         <button className="btn btn-info mt-[25px] w-[120px] border-white border-2 rounded-2xl">Ulanish</button>
 
         <img className="mt-[50px]" src={hero} alt="hero" />
